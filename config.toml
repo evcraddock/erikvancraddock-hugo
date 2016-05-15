@@ -1,0 +1,100 @@
+baseurl = "http://erik.craddock.org/"
+publishdir = "../evcraddock.github.io"
+languageCode = "en-us"
+title = "ERIK.VAN.CRADDOCK"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+# Define the number of posts per page
+paginate = 8
+footnotereturnlinkcontents = "↩"
+theme = "hugo-icarus-theme"
+
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
+
+[params]
+    # Tell me who you are
+    author = "Erik Craddock"
+    bio = "Musician, Programmer, Troublemaker"
+    location = "Mustang, Oklahoma"
+    site_description = ""
+    copyright  = "Erik Craddock"
+    avatar = "css/images/avatar.jpg"
+
+    # Format dates with Go's time formatting
+    date_format = "2006-01-02"
+
+
+[[params.menu]]
+    before = false
+    label  = "Family"
+    link   = "categories/family"
+
+[[params.menu]]
+    before = false
+    label  = "Ideas"
+    link   = "categories/ideas"
+
+[[params.menu]]
+    before = false
+    label  = "Work"
+    link   = "categories/work"
+
+[[params.menu]]
+    before = false
+    label  = "Music"
+    link   = "http://erikvann.com/"
+
+[[params.menu]]
+    before = false
+    label  = "What I'm Reading"
+    link   = "/what-im-reading"
+
+
+# Enter a link for the follow button on the left
+[params.profile]
+    follow_button = "https://facebook.com/evcraddock"
+
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# create automatically.
+    github          = "evcraddock"
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = "evcraddock"
+    youtube         = ""
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = "evcraddock"
+    googleplus      = ""
+    facebook        = "evcraddock"
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = "evcraddock"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = false
+    tag_cloud = true
