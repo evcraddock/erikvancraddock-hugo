@@ -1,11 +1,11 @@
-baseurl = "http://erik.craddock.org/"
+baseurl = "http://erikvancraddock.com/"
 publishdir = "../evcraddock.github.io"
 languageCode = "en-us"
 title = "ERIK.VAN.CRADDOCK"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-17539024-2"
 # Define the number of posts per page
 paginate = 8
 footnotereturnlinkcontents = "↩"
