@@ -7,7 +7,7 @@ images = []
 menu = ""
 tags = ["GoRead", "Pocket", "Chrome", "Internet"]
 title = "How I consume the Internet"
-draft = true
+draft = false
 
 +++
 
