@@ -1,10 +1,10 @@
 +++
 banner = "/images/internet-junkie.jpg"
+url = "/2016/06/29/how-i-consume-the-internet/"
 categories = ["ideas","productivity"]
 date = "2016-06-29"
-description = ""
-images = []
-menu = ""
+author = "erik craddock"
+layout = "post"
 tags = ["GoRead", "Pocket", "Chrome", "Internet"]
 title = "How I consume the Internet"
 draft = false
