@@ -3,7 +3,7 @@ title: The Reluctant Prisoner
 author: erik
 layout: post
 date: 2011-02-24
-url: /2011/02/the-reluctant-prisoner/
+url: /2011/02/24/the-reluctant-prisoner/
 categories:
   - Family
 banner: /images/prisoner.jpg

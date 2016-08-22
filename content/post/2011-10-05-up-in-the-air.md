@@ -3,7 +3,7 @@ title: Up in the air
 author: erik
 layout: post
 date: 2011-10-05
-url: /2011/10/up-in-the-air/
+url: /2011/10/05/up-in-the-air/
 categories:
   - Ideas
 banner: /images/up-in-the-air.jpg

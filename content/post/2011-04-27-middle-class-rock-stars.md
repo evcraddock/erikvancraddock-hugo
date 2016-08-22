@@ -3,7 +3,7 @@ title: Middle Class Rock Stars
 author: erik
 layout: post
 date: 2011-04-27
-url: /2011/04/middle-class-rock-stars/
+url: /2011/04/27/middle-class-rock-stars/
 categories:
   - Ideas
 banner: /images/hero.jpg

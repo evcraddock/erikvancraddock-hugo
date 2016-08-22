@@ -3,7 +3,7 @@ title: Fiesta Bowl Road Trip – Boomer Sooner!
 author: erik
 layout: post
 date: 2011-02-01
-url: /2011/02/fiesta-bowl-road-trip-boomer-sooner/
+url: /2011/02/01/fiesta-bowl-road-trip-boomer-sooner/
 categories:
   - Family
 banner: /images/fiesta-bowl-2011.jpg

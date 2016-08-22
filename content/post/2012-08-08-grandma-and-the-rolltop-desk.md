@@ -3,7 +3,7 @@ title: Grandma and the Rolltop Desk
 author: erik
 layout: post
 date: 2012-08-08
-url: /2012/08/grandma-and-the-rolltop-desk/
+url: /2012/08/08/grandma-and-the-rolltop-desk/
 categories:
   - Family
 banner: /images/grandmas-family.jpg

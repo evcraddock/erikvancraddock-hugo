@@ -3,7 +3,7 @@ title: Dodge City – Our Great American RV Adventure
 author: erik
 layout: post
 date: 2011-08-12
-url: /2011/08/our-great-american-rv-adventure-dodge-city/
+url: /2011/08/12/our-great-american-rv-adventure-dodge-city/
 categories:
   - Family
 banner: /images/dodge-city.jpg

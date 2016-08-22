@@ -3,7 +3,7 @@ title: How To Get Things Done – GTD
 author: erik
 layout: post
 date: 2013-08-25
-url: /2013/08/how-to-get-things-done/
+url: /2013/08/25/how-to-get-things-done/
 categories:
   - Book Review
   - Productivity
@@ -15,7 +15,7 @@ banner: /images/gtd.jpg
 
 ---
    
-[Lists are how we track what we need to do] (/2013/07/an-overview-of-getting-things-done-lists/) but this alone is not enough. Despite an abundance of technology available to help us keep track of tasks, many of us still keep these lists in our heads. We do this for a variety of reasons. They all have a common root. We don’t trust our system. We don’t actually believe that the list is the full list. We know that things have either been forgotten to be put on the list or were not important enough to track.
+[Lists are how we track what we need to do] (/2013/07/29/an-overview-of-getting-things-done-lists/) but this alone is not enough. Despite an abundance of technology available to help us keep track of tasks, many of us still keep these lists in our heads. We do this for a variety of reasons. They all have a common root. We don’t trust our system. We don’t actually believe that the list is the full list. We know that things have either been forgotten to be put on the list or were not important enough to track.
 
 
 

@@ -3,7 +3,7 @@ title: Fiesta Bowl Trip – Stranded in Roswell
 author: erik
 layout: post
 date: 2011-01-21
-url: /2011/01/fiesta-bowl-trip-stranded-roswell/
+url: /2011/01/21/fiesta-bowl-trip-stranded-roswell/
 categories:
   - Family
 banner: /images/roswell.jpg

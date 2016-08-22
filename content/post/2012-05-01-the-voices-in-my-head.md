@@ -3,7 +3,7 @@ title: The Voices in My Head
 author: erik
 layout: post
 date: 2012-05-01
-url: /2012/05/the-voices-in-my-head/
+url: /2012/05/01/the-voices-in-my-head/
 categories:
   - Ideas
 banner: /images/voices-in-my-head.jpg

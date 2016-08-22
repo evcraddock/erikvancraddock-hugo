@@ -3,7 +3,7 @@ title: Tunnel Vision, cold sweats and swing sets
 author: erik
 layout: post
 date: 2009-03-25
-url: /2009/03/tunnel-vision-cold-sweats-and-swing-sets/
+url: /2009/03/25/tunnel-vision-cold-sweats-and-swing-sets/
 categories:
   - Ideas
 

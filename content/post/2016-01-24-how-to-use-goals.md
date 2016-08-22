@@ -3,7 +3,7 @@ title: How to Use Goals
 author: erik
 layout: post
 date: 2016-01-25
-url: /2016/01/how-to-use-goals/
+url: /2016/01/25/how-to-use-goals/
 categories: ["Work", "Productivity"]
 tags: ["Goals"]
 banner: /images/goals.jpg

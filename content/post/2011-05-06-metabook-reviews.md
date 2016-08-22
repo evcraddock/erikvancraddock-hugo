@@ -3,7 +3,7 @@ title: Meta book Reviews
 author: erik
 layout: post
 date: 2011-05-06
-url: /2011/05/metabook-reviews/
+url: /2011/05/06/metabook-reviews/
 categories:
   - Ideas
 banner: /images/book-review.jpg

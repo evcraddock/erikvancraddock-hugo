@@ -3,7 +3,7 @@ title: Snow Days Survived
 author: erik
 layout: post
 date: 2011-02-08
-url: /2011/02/snow-days-survived/
+url: /2011/02/08/snow-days-survived/
 categories:
   - Family
 banner: /images/snow-day.jpg

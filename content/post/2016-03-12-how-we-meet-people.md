@@ -3,7 +3,7 @@ title: How We Meet People
 author: erik
 layout: post
 date: 2016-03-12
-url: /2016/03/how-we-meet-people/
+url: /2016/03/12/how-we-meet-people/
 categories:
   - Ideas
 tags:

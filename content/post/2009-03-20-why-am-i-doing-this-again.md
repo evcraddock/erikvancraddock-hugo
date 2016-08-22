@@ -4,7 +4,7 @@ author = "erik"
 draft = false
 layout = "post"
 date = "2009-03-20T14:13:33-05:00"
-url = "/2009/03/why-am-i-doing-this-again/"
+url = "/2009/03/20/why-am-i-doing-this-again/"
 +++
 
 Ok, I&#8217;ve decided to start recording my daily activities for a number of reasons. 

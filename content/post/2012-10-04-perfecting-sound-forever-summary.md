@@ -3,7 +3,7 @@ title: Perfecting Sound Forever – Summary
 author: erik
 layout: post
 date: 2012-10-04
-url: /2012/10/perfecting-sound-forever-summary/
+url: /2012/10/04/perfecting-sound-forever-summary/
 categories:
   - Book Review
   - Music

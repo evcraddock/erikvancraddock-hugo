@@ -3,7 +3,7 @@ title: Who Is Otis Ray?
 author: erik
 layout: post
 date: 2012-11-27
-url: /2012/11/who-is-otis-ray/
+url: /2012/11/27/who-is-otis-ray/
 categories:
   - Family
   - Music
@@ -25,7 +25,7 @@ I took the lyrics that Rodney gave me and I applied them to the music that I had
 
 In hindsight, our first mistake was basing everything around a guitar riff. In theory one should be able to play with a metronome and everything would be in time. In practice, that doesn’t work very well. We had a completed song that sounded ok, but something just wasn’t right. I would focus on my parts and hear little mistakes here and there. I would re-record my parts and send them to Rodney. He would do the same. I kept telling myself that the problem was with the mix or some other technical issue that I was inexperienced with.
 
-In the meantime, I had begun recording another song, [Bad End to a Good Time](/2012/10/24/a-good-end-to-a-great-time-part1/). This was done during a period of time when the work on the Otis Ray project was in Rodney’s court. When I was working on Otis Ray, he would work on Bad End. It was becoming obvious that Otis Ray was going nowhere. It still just sounded wrong. For a time it appeared as if ole Otis Ray was destined for a life of receiving low blows in a back alley brawl. We ended up finishing Bad End first. There was a moment right after we pushed out the song that we nearly abandoned Otis Ray. Ironically, it was saved when we decided to scrap everything and start over.
+In the meantime, I had begun recording another song, [Bad End to a Good Time](/2012/10/24/a-bad-end-to-a-good-time/). This was done during a period of time when the work on the Otis Ray project was in Rodney’s court. When I was working on Otis Ray, he would work on Bad End. It was becoming obvious that Otis Ray was going nowhere. It still just sounded wrong. For a time it appeared as if ole Otis Ray was destined for a life of receiving low blows in a back alley brawl. We ended up finishing Bad End first. There was a moment right after we pushed out the song that we nearly abandoned Otis Ray. Ironically, it was saved when we decided to scrap everything and start over.
 
 Rodney had been working on the project for a couple of weeks. He had recorded, erased and re-recorded every track he had originally created. It still didn’t sound right. He finally threw his hands up and gave me everything he had to see what I could do with it. I did the same, I re-recorded my parts but something was still off. I finally determined to get to the bottom of the problem. I began listening to tracks. The rhythm guitar and bass were good together but when I listened to them individually with a metronome they were off. It finally occurred to me that the issue was that every current track had been recorded along with the bass. The bass however had been recorded to match the original riff which had long been erased. Guitar riffs are rarely precise. In fact what made this particular riff good in the first place was it’s “looseness”. Riffs are meant to be played along with a backing track not vice versa. To top it off, I wasn’t even playing it the same anymore. With a sinking heart I realized that the we had to start over completely from scratch.
 

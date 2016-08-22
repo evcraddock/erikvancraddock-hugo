@@ -3,7 +3,7 @@ title: Poke the Box (Seth Godin) – Book Review
 author: erik
 layout: post
 date: 2011-03-18
-url: /2011/03/book-review-poke-the-box-seth-godin/
+url: /2011/03/18/book-review-poke-the-box-seth-godin/
 categories:
   - Book Review
 banner: /images/poke-the-box.jpg

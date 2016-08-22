@@ -3,7 +3,7 @@ title: Not smoking sux
 author: erik
 layout: post
 date: 2009-03-25
-url: /2009/03/not-smoking-sux/
+url: /2009/03/25/not-smoking-sux/
 categories:
   - Family
 

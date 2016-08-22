@@ -3,7 +3,7 @@ title: Goals and Plans for 2016
 author: erik
 layout: post
 date: 2016-01-03
-url: /2016/01/goals-and-plans-2016/
+url: /2016/01/03/goals-and-plans-2016/
 categories:
   - Work
   - Productivity

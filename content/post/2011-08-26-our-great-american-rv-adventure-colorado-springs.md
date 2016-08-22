@@ -3,7 +3,7 @@ title: Colorado Springs – Our Great American RV Adventure
 author: erik
 layout: post
 date: 2011-08-26
-url: /2011/08/our-great-american-rv-adventure-colorado-springs/
+url: /2011/08/26/our-great-american-rv-adventure-colorado-springs/
 categories:
   - Family
 banner: /images/colorado-springs.jpg

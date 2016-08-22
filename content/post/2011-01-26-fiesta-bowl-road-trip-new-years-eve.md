@@ -3,7 +3,7 @@ title: Fiesta Bowl Road Trip – New Years Eve
 author: erik
 layout: post
 date: 2011-01-26
-url: /2011/01/fiesta-bowl-road-trip-new-years-eve/
+url: /2011/01/26/fiesta-bowl-road-trip-new-years-eve/
 categories:
   - Family
 banner: /images/with-care.jpg

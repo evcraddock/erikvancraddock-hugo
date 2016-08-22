@@ -3,7 +3,7 @@ title: Yellowstone (part 2) – Our Great American RV Adventure
 author: erik
 layout: post
 date: 2011-10-01
-url: /2011/10/our-great-american-rv-adventure-yellowstone-part-2/
+url: /2011/10/01/our-great-american-rv-adventure-yellowstone-part-2/
 categories:
   - Family
 banner: /images/oldfaithful.jpg

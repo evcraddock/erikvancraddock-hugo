@@ -3,7 +3,7 @@ title: Mount Rushmore – Our Great American RV Adventure
 author: erik
 layout: post
 date: 2011-10-11
-url: /2011/10/our-great-american-rv-adventure-mount-rushmore/
+url: /2011/10/11/our-great-american-rv-adventure-mount-rushmore/
 categories:
   - Family
 banner: /images/rushmore.jpg

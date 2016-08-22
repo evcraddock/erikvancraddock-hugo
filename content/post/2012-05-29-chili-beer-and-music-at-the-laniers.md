@@ -3,7 +3,7 @@ title: Chili, beer and music at the Lanier’s
 author: erik
 layout: post
 date: 2012-05-29
-url: /2012/05/chili-beer-and-music-at-the-laniers/
+url: /2012/05/29/chili-beer-and-music-at-the-laniers/
 categories:
   - Music
 

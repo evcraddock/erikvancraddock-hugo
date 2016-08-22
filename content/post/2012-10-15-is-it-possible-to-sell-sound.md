@@ -3,7 +3,7 @@ title: Is it possible to sell sound?
 author: erik
 layout: post
 date: 2012-10-15
-url: /2012/10/is-it-possible-to-sell-sound/
+url: /2012/10/15/is-it-possible-to-sell-sound/
 categories:
   - Ideas
   - Music

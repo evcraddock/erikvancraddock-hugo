@@ -3,7 +3,7 @@ title: Entering Yellowstone – Our Great American RV Adventure
 author: erik
 layout: post
 date: 2011-09-09
-url: /2011/09/our-great-american-rv-adventure-yellowstone-part1/
+url: /2011/09/09/our-great-american-rv-adventure-yellowstone-part1/
 categories:
   - Family
 banner: /images/Danger.jpg

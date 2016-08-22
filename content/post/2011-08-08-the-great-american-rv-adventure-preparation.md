@@ -3,7 +3,7 @@ title: Our Great American RV Adventure – Preparation
 author: erik
 layout: post
 date: 2011-08-08
-url: /2011/08/the-great-american-rv-adventure-preparation/
+url: /2011/08/08/the-great-american-rv-adventure-preparation/
 categories:
   - Family
 banner: /images/america-trip.jpg

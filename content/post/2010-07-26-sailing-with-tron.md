@@ -3,7 +3,7 @@ title: Sailing with Tron
 author: erik
 layout: post
 date: 2010-07-26
-url: /2010/07/sailing-with-tron/
+url: /2010/07/26/sailing-with-tron/
 categories:
   - Family
 banner: /images/captain-tron.jpg

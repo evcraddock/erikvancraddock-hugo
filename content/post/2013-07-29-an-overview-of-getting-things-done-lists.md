@@ -3,7 +3,7 @@ title: An Overview of Getting Things Done – Lists
 author: erik
 layout: post
 date: 2013-07-29
-url: /2013/07/an-overview-of-getting-things-done-lists/
+url: /2013/07/29/an-overview-of-getting-things-done-lists/
 categories:
   - Book Review
   - Work
@@ -11,7 +11,7 @@ tags:
   - GTD
 banner: /images/gtd-list.jpg
 ---
-Getting Things Done is a task management system created by David Allen. Its purpose is to establish a framework for tracking tasks so that all necessary resources are available when and where they are needed. A primary focus is to ensure that the system can be trusted as the one source of anything that needs to be done. This is an overview of the system from my own point of view. This overview is derived from the knowledge I gained from reading the book and implementing it in my life. I highly recommend that you purchase and read the book [Getting Things Done: The Art of Stress-Free Productivity][1]. It is the definitive source for the processes and procedures of Mr. Allen’s system.
+Getting Things Done is a task management system created by David Allen. Its purpose is to establish a framework for tracking tasks so that all necessary resources are available when and where they are needed. A primary focus is to ensure that the system can be trusted as the one source of anything that needs to be done. This is an overview of the system from my own point of view. This overview is derived from the knowledge I gained from reading the book and implementing it in my life. I highly recommend that you purchase and read the book [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/B007J5D4QQ/ref=sr_1_3?ie=UTF8&qid=1471890232&sr=8-3&keywords=getting+things+done). It is the definitive source for the processes and procedures of Mr. Allen’s system.
 
 Gettings Things Done is typically referred to by its acronym, GTD. It is not a software application, nor is it contained in a physical binder or notebook. It isn’t even a product for sale. It is philosophy with a set of recommended procedures for simplifying the process of implementing a trusted project management system. Many companies and individuals have created tools to accommodate the GTD System. They come in the form of software or paper products designed to help implement the system. But all that is truly needed is paper, a writing utensil, a calendar and a method of binding multiple pieces of paper together such as a paper clip.
 
@@ -65,4 +65,4 @@ The maybe list is also valuable for keeping track of things that you aren’t re
 
 ### Whats Next?
 
-Having a logical way of storing the things we want to do in a list is not enough. Next I&#8217;ll [describe the processes](/2013/08/how-to-get-things-done/) that are necessary to get the work done.
+Having a logical way of storing the things we want to do in a list is not enough. Next I&#8217;ll [describe the processes](/2013/08/25/how-to-get-things-done/) that are necessary to get the work done.

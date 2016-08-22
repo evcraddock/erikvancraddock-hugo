@@ -3,7 +3,7 @@ title: Football Camp
 author: erik
 layout: post
 date: 2010-07-31
-url: /2010/07/football-camp/
+url: /2010/07/31/football-camp/
 categories:
   - Family
 banner: /images/football-buddies.jpg

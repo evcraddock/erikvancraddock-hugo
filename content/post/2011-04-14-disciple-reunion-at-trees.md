@@ -3,7 +3,7 @@ title: Disciple reunion at Trees
 author: erik
 layout: post
 date: 2011-04-14
-url: /2011/04/disciple-reunion-at-trees/
+url: /2011/04/14/disciple-reunion-at-trees/
 categories:
   - Music
 banner: /images/Disciple_2011.jpg

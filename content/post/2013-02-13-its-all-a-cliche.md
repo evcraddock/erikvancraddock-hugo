@@ -3,7 +3,7 @@ title: It’s All A Cliche
 author: erik
 layout: post
 date: 2013-02-13
-url: /2013/02/its-all-a-cliche/
+url: /2013/02/13/its-all-a-cliche/
 categories:
   - Music
 tags:
