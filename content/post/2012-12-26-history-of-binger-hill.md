@@ -3,7 +3,7 @@ title: History of Binger Hill
 author: erik
 layout: post
 date: 2012-12-26
-url: /2012/12/26/history-of-binger-hill/
+url: /2012/12/history-of-binger-hill/
 categories:
   - Family
 banner: /images/thehill.jpg

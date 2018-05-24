@@ -3,7 +3,7 @@ title: It’s about time for a mid life crisis
 author: erik
 layout: post
 date: 2012-07-22
-url: /2012/07/22/its-about-time-for-a-mid-life-crisis/
+url: /2012/07/its-about-time-for-a-mid-life-crisis/
 categories:
   - Ideas
 banner: /images/turning-fourty.jpg

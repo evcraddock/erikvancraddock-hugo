@@ -3,7 +3,7 @@ title: My weekend
 author: erik
 layout: post
 date: 2009-03-23
-url: /2009/03/23/my-weekend/
+url: /2009/03/my-weekend/
 categories:
   - Family
 

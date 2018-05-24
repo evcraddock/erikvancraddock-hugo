@@ -3,7 +3,7 @@ title: The People’s History of the United States by Howard Zinn – Book Revie
 author: erik
 layout: post
 date: 2011-04-19
-url: /2011/04/19/book-review-the-peoples-history-of-the-united-states-by-howard-zinn/
+url: /2011/04/book-review-the-peoples-history-of-the-united-states-by-howard-zinn/
 categories:
   - Book Review
 banner: /images/peoples-history.jpg

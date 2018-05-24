@@ -3,7 +3,7 @@ title: Plan to Succeed
 author: erik
 layout: post
 date: 2016-02-28
-url: /2016/02/28/plan-to-succeed/
+url: /2016/02/plan-to-succeed/
 categories:
   - Ideas
   - Productivity

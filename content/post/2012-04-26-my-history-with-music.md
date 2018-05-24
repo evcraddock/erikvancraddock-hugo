@@ -3,7 +3,7 @@ title: My History with Music
 author: erik
 layout: post
 date: 2012-04-26
-url: /2012/04/26/my-history-with-music/
+url: /2012/04/my-history-with-music/
 categories:
   - Music
 banner: /images/first-guitar.jpg

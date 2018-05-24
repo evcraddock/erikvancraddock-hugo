@@ -3,7 +3,7 @@ title: How to Teach Kids to Learn
 author: erik
 layout: post
 date: 2015-04-26
-url: /2015/04/26/how-to-teach-kids-to-learn/
+url: /2015/04/how-to-teach-kids-to-learn/
 categories:
   - Ideas
 banner: /images/teach-kids.jpg

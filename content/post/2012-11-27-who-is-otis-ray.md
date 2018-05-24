@@ -3,7 +3,7 @@ title: Who Is Otis Ray?
 author: erik
 layout: post
 date: 2012-11-27
-url: /2012/11/27/who-is-otis-ray/
+url: /2012/11/who-is-otis-ray/
 categories:
   - Family
   - Music

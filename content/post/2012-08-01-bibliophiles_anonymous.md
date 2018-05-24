@@ -3,7 +3,7 @@ title: Bibliophiles Anonymous
 author: erik
 layout: post
 date: 2012-08-01
-url: /2012/08/01/bibliophiles_anonymous/
+url: /2012/08/bibliophiles_anonymous/
 categories:
   - Ideas
 banner: /images/BookClub.png

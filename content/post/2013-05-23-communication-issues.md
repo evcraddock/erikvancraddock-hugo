@@ -3,7 +3,7 @@ title: Communication Issues
 author: erik
 layout: post
 date: 2013-05-23
-url: /2013/05/23/communication-issues/
+url: /2013/05/communication-issues/
 categories:
   - Ideas
 banner: /images/comm-issues.jpg

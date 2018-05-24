@@ -3,7 +3,7 @@ title: How I Replaced Google Reader with Pinboard
 author: erik
 layout: post
 date: 2013-04-19
-url: /2013/04/19/how-i-replaced-google-reader-with-pinboard/
+url: /2013/04/how-i-replaced-google-reader-with-pinboard/
 categories:
   - Work
 banner: /images/pinboard_in_blue.png

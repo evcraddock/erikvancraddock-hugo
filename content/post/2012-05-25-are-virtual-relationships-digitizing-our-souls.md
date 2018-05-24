@@ -3,7 +3,7 @@ title: Are Virtual Relationships Digitizing our Souls?
 author: erik
 layout: post
 date: 2012-05-25
-url: /2012/05/25/are-virtual-relationships-digitizing-our-souls/
+url: /2012/05/are-virtual-relationships-digitizing-our-souls/
 categories:
   - Ideas
 banner: /images/digital-soul.jpg

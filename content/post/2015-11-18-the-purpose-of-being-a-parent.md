@@ -3,7 +3,7 @@ title: The Purpose of being a Parent
 author: erik
 layout: post
 date: 2015-11-18
-url: /2015/11/18/the-purpose-of-being-a-parent/
+url: /2015/11/the-purpose-of-being-a-parent/
 categories:
   - Family
   - Ideas

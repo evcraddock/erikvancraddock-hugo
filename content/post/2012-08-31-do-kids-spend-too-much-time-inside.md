@@ -3,7 +3,7 @@ title: Do Kids Spend Too Much Time Inside?
 author: erik
 layout: post
 date: 2012-08-31
-url: /2012/08/13/do-kids-spend-too-much-time-inside/
+url: /2012/08/do-kids-spend-too-much-time-inside/
 categories:
   - Ideas
 banner: /images/pool-fun.jpg

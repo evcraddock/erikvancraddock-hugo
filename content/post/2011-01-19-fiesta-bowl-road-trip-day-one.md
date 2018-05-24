@@ -3,7 +3,7 @@ title: Fiesta Bowl Road Trip – Day One
 author: erik
 layout: post
 date: 2011-01-19
-url: /2011/01/19/fiesta-bowl-road-trip-day-one/
+url: /2011/01/fiesta-bowl-road-trip-day-one/
 categories:
   - Family
 banner: /images/fiesta-bound.jpg

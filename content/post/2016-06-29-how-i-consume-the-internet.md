@@ -1,6 +1,6 @@
 +++
 banner = "/images/internet-junkie.jpg"
-url = "/2016/06/29/how-i-consume-the-internet/"
+url = "/2016/06/how-i-consume-the-internet/"
 categories = ["ideas","productivity"]
 date = "2016-06-29"
 author = "erik craddock"

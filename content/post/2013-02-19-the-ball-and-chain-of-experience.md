@@ -3,7 +3,7 @@ title: The Ball and Chain of Experience
 author: erik
 layout: post
 date: 2013-02-19
-url: /2013/02/19/the-ball-and-chain-of-experience/
+url: /2013/02/the-ball-and-chain-of-experience/
 categories:
   - Ideas
 banner: /images/Elevator-Store.jpg

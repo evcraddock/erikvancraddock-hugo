@@ -3,7 +3,7 @@ title: Does Fort Worth Ever Cross Your Mind?
 author: erik
 layout: post
 date: 2015-10-23
-url: /2015/10/23/does-fort-worth-ever-cross-your-mind/
+url: /2015/10/does-fort-worth-ever-cross-your-mind/
 categories:
   - Family
 banner: /images/fortworthskyline.jpg

@@ -3,7 +3,7 @@ title: How To Get Things Done – GTD
 author: erik
 layout: post
 date: 2013-08-25
-url: /2013/08/25/how-to-get-things-done/
+url: /2013/08/how-to-get-things-done/
 categories:
   - Book Review
   - Productivity

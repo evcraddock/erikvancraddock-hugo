@@ -3,7 +3,7 @@ title: Wow as it turns out I’m a terrorist
 author: erik
 layout: post
 date: 2009-05-20
-url: /2009/05/20/wow-as-it-turns-out-im-a-terrorist/
+url: /2009/05/wow-as-it-turns-out-im-a-terrorist/
 categories:
   - Ideas
 

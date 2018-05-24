@@ -13,7 +13,7 @@ theme = "hugo-icarus-theme"
 
 
 [permalinks]
-    post = "/:year/:month/:day/:slug"
+    post = "/:year/:month/:slug"
 
 
 [params]

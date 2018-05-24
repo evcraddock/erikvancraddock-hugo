@@ -3,7 +3,7 @@ title: Why do people bother spending time with you?
 author: erik
 layout: post
 date: 2012-05-16
-url: /2012/05/16/why-do-people-bother-spending-time-with-you/
+url: /2012/05/why-do-people-bother-spending-time-with-you/
 categories:
   - Ideas
 banner: /images/spending-time.png

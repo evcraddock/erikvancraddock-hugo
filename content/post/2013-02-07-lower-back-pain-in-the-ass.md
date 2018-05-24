@@ -3,7 +3,7 @@ title: Lower back pain in the ass
 author: erik
 layout: post
 date: 2013-02-07
-url: /2013/02/07/lower-back-pain-in-the-ass/
+url: /2013/02/lower-back-pain-in-the-ass/
 categories:
   - Work
 banner: /images/oldman.jpg

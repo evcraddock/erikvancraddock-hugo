@@ -3,7 +3,7 @@ title: An Overview of Getting Things Done – Lists
 author: erik
 layout: post
 date: 2013-07-29
-url: /2013/07/29/an-overview-of-getting-things-done-lists/
+url: /2013/07/an-overview-of-getting-things-done-lists/
 categories:
   - Book Review
   - Work

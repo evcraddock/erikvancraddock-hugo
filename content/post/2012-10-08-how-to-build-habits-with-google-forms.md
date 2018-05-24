@@ -3,7 +3,7 @@ title: Build Habits with Google Forms
 author: erik
 layout: post
 date: 2012-10-08
-url: /2012/10/08/how-to-build-habits-with-google-forms/
+url: /2012/10/how-to-build-habits-with-google-forms/
 categories:
   - Work
 banner: /images/Go-to-live-form.png

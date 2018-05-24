@@ -3,7 +3,7 @@ title: A Bad End to a Good Time
 author: erik
 layout: post
 date: 2012-10-24
-url: /2012/10/24/a-bad-end-to-a-good-time/
+url: /2012/10/a-bad-end-to-a-good-time/
 categories:
   - Music
 

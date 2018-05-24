@@ -3,7 +3,7 @@ title: Whining, Crying and Belly Aching
 author: erik
 layout: post
 date: 2013-03-28
-url: /2013/03/28/whining-crying-and-belly-aching/
+url: /2013/03/whining-crying-and-belly-aching/
 categories:
   - Ideas
 banner: /images/whining.jpg

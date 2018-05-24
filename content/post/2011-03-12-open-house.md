@@ -3,7 +3,7 @@ title: Open House
 author: erik
 layout: post
 date: 2011-03-12
-url: /2011/03/12/open-house/
+url: /2011/03/open-house/
 categories:
   - Family
 banner: /images/open-house.jpg

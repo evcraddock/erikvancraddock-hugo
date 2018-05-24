@@ -3,7 +3,7 @@ title: A 3 year old Storm hit Montgomery, Tx
 author: erik
 layout: post
 date: 2012-09-05
-url: /2012/09/05/a-3-year-old-storm-hit-montgomery-tx/
+url: /2012/09/a-3-year-old-storm-hit-montgomery-tx/
 categories:
   - Family
   - Music

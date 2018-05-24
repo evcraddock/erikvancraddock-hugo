@@ -3,7 +3,7 @@ title: Youthful Creativity
 author: erik
 layout: post
 date: 2011-08-09
-url: /2011/08/09/youthful-creativity/
+url: /2011/08/youthful-creativity/
 categories:
   - Ideas
 banner: /images/butch-meany.jpg

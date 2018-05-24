@@ -3,7 +3,7 @@ title: The Decline of Music Appreciation
 author: erik
 layout: post
 date: 2012-09-18
-url: /2012/09/18/the-decline-of-music-appreciation/
+url: /2012/09/the-decline-of-music-appreciation/
 categories:
   - Ideas
   - Music

@@ -3,7 +3,7 @@ title: Socialized Digital Product Development
 author: erik
 layout: post
 date: 2012-05-04
-url: /2012/05/04/socialized-digital-product-development/
+url: /2012/05/socialized-digital-product-development/
 categories:
   - Ideas
 banner: /images/social-digital.jpg
