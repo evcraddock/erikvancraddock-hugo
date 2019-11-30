@@ -4,7 +4,7 @@ categories = ["work","productivity"]
 date = "2017-02-05"
 author = "erik craddock"
 layout = "post"
-tags = ["burnout", "work"]
+tags = ["burnout"]
 title = "How to beat burnout"
 draft = false
 

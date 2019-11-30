@@ -5,7 +5,7 @@
     </h3>
     
         <ul id="recent-post">
-            {{ range first 5 (where .Site.Pages "Type" "post") }}
+            {{ range first 5 (where .Site.RegularPages "Type" "post") }}
             <li>
                 
                 <div class="item-inner">
