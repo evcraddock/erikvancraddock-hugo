@@ -47,7 +47,7 @@ theme = "hugo-icarus-theme"
 [[params.menu]]
     before = false
     label  = "Music"
-    link   = "http://erikvann.com/"
+    link   = "categories/music"
 
 [[params.menu]]
     before = false
