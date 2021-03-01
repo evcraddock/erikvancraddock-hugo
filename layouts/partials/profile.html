@@ -7,7 +7,6 @@
       </a>
       {{ with .Site.Params.bio }}<h3 id="title">{{ . }}</h3>{{ end }}
       {{ with .Site.Params.location }}<span id="location"><i class="fa fa-map-marker"></i>{{ . }}</span>{{ end }}
-      
     </div>
     
     <div class="contact-info profile-block">
@@ -18,5 +17,14 @@
         </tr>
       </table>
     </div>
+
   </div>
+   {{ if not .Params.disable_widgets }}
+    {{ partial "widgets/recent_articles" . }}
+    {{ partial "widgets/categories" . }}
+    {{ partial "widgets/tags" . }}
+    {{ partial "widgets/tag_cloud" . }}
+   {{ end }}
+
+    <div id="toTop" class="fa fa-angle-up"></div>
 </aside>

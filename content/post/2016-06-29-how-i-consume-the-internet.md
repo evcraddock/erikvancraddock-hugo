@@ -13,9 +13,9 @@ draft = false
 
 
 
-I am an information junkie. I go from one obsession to the next. The Internet deals me out a constant supply of articles, images, music and video on any and every subject I can imagine. It is very easy to get sucked in. If I'm not careful I will find myself reading about some [obscure religious rite] (http://www.theapricity.com/forum/showthread.php?178939-8-Most-Bizarre-Religious-Rites) or the [mating habits of deep sea creatures] (http://news.nationalgeographic.com/2016/06/seahorse-reproduction-behavior-conservation/) or [Neuromancer fan fiction] (https://www.fanfiction.net/u/55503/Electric-Monk). Every subject is represented. There are niche groups living within niche groups. Unbelievably, there is just too much information. 
+I am an information junkie. I go from one obsession to the next. The Internet deals me out a constant supply of articles, images, music and video on any and every subject I can imagine. It is very easy to get sucked in. If I'm not careful I will find myself reading about some [obscure religious rite](http://www.theapricity.com/forum/showthread.php?178939-8-Most-Bizarre-Religious-Rites) or the [mating habits of deep sea creatures](http://news.nationalgeographic.com/2016/06/seahorse-reproduction-behavior-conservation/) or [Neuromancer fan fiction](https://www.fanfiction.net/u/55503/Electric-Monk). Every subject is represented. There are niche groups living within niche groups. Unbelievably, there is just too much information. 
 
-I've been [dealing with this issue] (/2013/04/how-i-replaced-google-reader-with-pinboard/) for a long time. We all deal with it to varying degrees. It is necessary to limit ourselves or we will be on the Internet all day. Some of us have to go to work and food is nice from time to time. 
+I've been [dealing with this issue](/2013/04/how-i-replaced-google-reader-with-pinboard/) for a long time. We all deal with it to varying degrees. It is necessary to limit ourselves or we will be on the Internet all day. Some of us have to go to work and food is nice from time to time. 
 
 But how do we deal with it? We can't just ignore it. Every year, more jobs revolve around data from the Internet. My job certainly does. I am a software developer, a field that is constantly changing. If I don't keep myself informed, I will soon find my skills irrelevant. It's not just my job that is effected. In fact, almost every aspect of my life is improved by consuming information on the Internet. What is the best music or movies out right now? What advances in technology have been made? How much are Bitcoins selling for? Will George R.R. Martin ever relase the next Song of Ice and Fire book? Pretty sure the answer is no, he's just going to let HBO write it for him.
 
@@ -39,16 +39,16 @@ I am faced with a horrible realization. There isn't enough time in the day to co
 #### My Tools
 
 * **RSS Reader** -
-	[GoRead] (https://www.goread.io/) is an RSS reader that was created to replace all of the funcitonality of Google Reader, which was shutdown in 2013. Where most RSS readers that I have found try to be everything for everyone, GoRead does one thing good. It lets you subscribe to and view RSS feeds.
+	[GoRead](https://www.goread.io/) is an RSS reader that was created to replace all of the funcitonality of Google Reader, which was shutdown in 2013. Where most RSS readers that I have found try to be everything for everyone, GoRead does one thing good. It lets you subscribe to and view RSS feeds.
 
 * **Bookmark Browser Plugin** - 
-	[Save to Pocket] (https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj) is a browser extension for Chrome which adds a button next to the address bar used to tag links to read later with Pocket. The extension also adds a context menu item when you two finger tap a link using a Mac or right click using Windows. Another cool feature of the extension is the keyboard shortcut for saving a link. It is by default Command+Up+P for the Mac and Ctrl+Shift+S for Windows.
+	[Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj) is a browser extension for Chrome which adds a button next to the address bar used to tag links to read later with Pocket. The extension also adds a context menu item when you two finger tap a link using a Mac or right click using Windows. Another cool feature of the extension is the keyboard shortcut for saving a link. It is by default Command+Up+P for the Mac and Ctrl+Shift+S for Windows.
 
 * **Read Later List** - 
-	[Pocket] (https://getpocket.com) allows you to tag links and save them for later use but I typically use the default list as a list of web pages on the Internet that I intend to read. 
+	[Pocket](https://getpocket.com) allows you to tag links and save them for later use but I typically use the default list as a list of web pages on the Internet that I intend to read. 
 
 * **Article Viewer** - 
-	Pocket lets me view articles three different ways: [web application] (https://getpocket.com), mobile application: [Android] (https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&hl=en) | [iPhone] (https://itunes.apple.com/app/read-it-later-pro/id309601447?mt=8), native [OSX application] (https://itunes.apple.com/app/pocket/id568494494?ls=1&mt=12). Each gives me a list of links that I previously saved. When I click on a link, Pocket allows me to read using article view or web view. Article view cleans up the page so that it is mostly text. Web view displays the full website. If I am using the web application, web view open the link in a new tab. For both the native OSX and mobile applications, web view displays within the Pocket application.
+	Pocket lets me view articles three different ways: [web application](https://getpocket.com), mobile application: [Android](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&hl=en) | [iPhone](https://itunes.apple.com/app/read-it-later-pro/id309601447?mt=8), native [OSX application](https://itunes.apple.com/app/pocket/id568494494?ls=1&mt=12). Each gives me a list of links that I previously saved. When I click on a link, Pocket allows me to read using article view or web view. Article view cleans up the page so that it is mostly text. Web view displays the full website. If I am using the web application, web view open the link in a new tab. For both the native OSX and mobile applications, web view displays within the Pocket application.
 
 #### My Daily Process
 **Discovery** -
