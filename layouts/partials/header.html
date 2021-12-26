@@ -1,12 +1,11 @@
 <header id="header">
   <div id="header-main" class="header-inner" >
     <div class="outer">
-    <!-- <i class="logo" style="background-image: url('{{ .Site.BaseURL }}css/images/logo.jpg')"></i> -->
-      <a href="{{ .Site.BaseURL }}" id="logo"><span class="site-title">{{ .Site.Title }}</span></a>
+      <a href="/" id="logo"><span class="site-title">{{ .Site.Title }}</span></a>
       <nav id="main-nav">
           {{ range .Site.Params.menu }}
           {{ if .before }}
-          <a class="main-nav-link" href="{{ .link | absURL }}">{{ .label }}</a>
+          <a class="main-nav-link" href="/{{ .link }}">{{ .label }}</a>
           {{ end }}
           {{ end }}
 
@@ -16,13 +15,13 @@
 
           {{ range .Site.Params.menu }}
           {{ if not .before }}
-          <a class="main-nav-link" href="{{ .link | absURL }}">{{ .label }}</a>
+          <a class="main-nav-link" href="/{{ .link }}">{{ .label }}</a>
           {{ end }}
           {{ end }}
       </nav>
         <nav id="sub-nav">
           <div class="profile" id="profile-nav">
-            <a id="profile-anchor" href="javascript:;"><img class="avatar" src="{{ .Site.BaseURL }}{{ .Site.Params.avatar }}"><i class="fa fa-caret-down"></i></a>
+            <a id="profile-anchor" href="javascript:;"><img class="avatar" src="/{{ .Site.Params.avatar }}"><i class="fa fa-caret-down"></i></a>
           </div>
         </nav>
         <div id="search-form-wrap">
@@ -41,7 +40,7 @@
           <tr>
           {{ range .Site.Params.menu }}
           {{ if .before }}
-          <td><a class="main-nav-link" href="{{ .link | absURL }}">{{ .label }}</a></td>
+          <td><a class="main-nav-link" href="/{{ .link }}">{{ .label }}</a></td>
           {{ end }}
           {{ end }}
 
@@ -51,7 +50,7 @@
 
           {{ range .Site.Params.menu }}
           {{ if not .before }}
-          <td><a class="main-nav-link" href="{{ .link  | absURL }}">{{ .label }}</a></td>
+          <td><a class="main-nav-link" href="/{{ .link }}">{{ .label }}</a></td>
           {{ end }}
           {{ end }}
           <td>

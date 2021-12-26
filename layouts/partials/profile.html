@@ -1,7 +1,7 @@
 <aside id="profile">
   <div class="inner profile-inner">
     <div class="base-info profile-block">
-      <img id="avatar" src="{{ .Site.BaseURL }}{{ .Site.Params.avatar }}">
+      <img id="avatar" src="/{{ .Site.Params.avatar }}">
       <a href="/aboutme">
           {{ with .Site.Params.author}}<h2 id="name">{{ . }}</h2>{{ end }}
       </a>

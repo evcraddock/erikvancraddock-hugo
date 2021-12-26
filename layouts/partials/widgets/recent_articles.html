@@ -1,7 +1,7 @@
 {{ if .Site.Params.widgets.recent_articles }}
 <div class="widget-wrap">
     <h3 class="widget-title">
-        {{with .Site.Data.l10n.widgets.recent_articles.title}}{{.}}{{end}}
+        {{ with .Site.Data.l10n.widgets.recent_articles.title }}{{.}}{{end}}
     </h3>
     
         <ul id="recent-post">
@@ -11,7 +11,7 @@
                 <div class="item-inner">
                     {{ if isset .Params "categories" }}
                     <p class="item-category">
-                        <a class="article-category-link" href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">
+                        <a class="article-category-link" href="/categories/{{ index .Params.categories 0 | urlize | lower }}">
                         {{ index .Params.categories 0 }}
                         </a>
                     </p>
